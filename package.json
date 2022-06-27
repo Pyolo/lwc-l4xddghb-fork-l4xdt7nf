@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/pyolo.lwc-l4xddghb-fork-l4xdt7nf",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 5X0PXC9x7DAnX8PjDX5N --open"
+  }
+}
